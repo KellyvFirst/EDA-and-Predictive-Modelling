@@ -1,4 +1,4 @@
-# Non utilisé, fichier d'analyse exploratoire eda.py dans dossier Client_Streamlit
+# Non utilisé, fichier d'analyse exploratoire utilisé : eda.py dans dossier Client_Streamlit
 # Import Libraries
 import pandas as pd
 import numpy as np
